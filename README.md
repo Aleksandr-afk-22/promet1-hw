@@ -18,7 +18,7 @@
 
 **Решение:**
 
-![test1](screenshots/test1.png)
+![test1](screenshots/prom-service.png)
 *Задание 1*
 
 
